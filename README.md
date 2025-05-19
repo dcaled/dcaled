@@ -4,7 +4,7 @@
 
 <br>
 
-- 🎓 PhD Candidate in Computer Science and Engineering at [IST](https://tecnico.ulisboa.pt/en/).
+- 🎓 PhD in Computer Science and Engineering at [IST](https://tecnico.ulisboa.pt/en/).
 - 🎓 M.Sc., Systems and Computer Engineering at [COPPE/UFRJ](https://www.coppe.ufrj.br/).
 - 🎓 B.E., Computer Engineering at [EscolaPolitécnica/UFRJ](https://poli.ufrj.br/graduacao/computacao-e-informacao/).
 - 📝 Check out my [Resume](LINK!).

@@ -1,49 +1,44 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Danielle</h1>
-<h2 align="center">Data scientist and software developer.</h2>
-<h3 align="center">I have experience in developing predictive and classification models and transforming them into functional solutions.</h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Danielle</h1>
+<h2 align="center">Data Scientist · Machine Learning Engineer · Software Engineer</h2>
+<h3 align="center">I build intelligent systems—from model development to production-ready applications.</h3>
 
 <br>
 
-- 🎓 PhD in Computer Science and Engineering at [IST](https://tecnico.ulisboa.pt/en/).
-- 🎓 M.Sc., Systems and Computer Engineering at [COPPE/UFRJ](https://www.coppe.ufrj.br/).
-- 🎓 B.E., Computer Engineering at [EscolaPolitécnica/UFRJ](https://poli.ufrj.br/graduacao/computacao-e-informacao/).
-- 📝 Check out my [Resume](LINK!).
+### 🎓 Academic Background
+
+- 🧠 **Ph.D. in Computer Science and Engineering**, [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/)
+- 🖥️ **M.Sc. in Systems and Computer Engineering**, [COPPE/UFRJ](https://www.coppe.ufrj.br/)
+- 💻 **B.E. in Computer Engineering**, [Escola Politécnica/UFRJ](https://poli.ufrj.br/graduacao/computacao-e-informacao/)
+- 📄 Check out my [Resume](LINK!) for more details
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Danielle%20Caled-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielle-caled-8230a325/)](https://www.linkedin.com/in/danielle-caled-8230a325/) 
+### 📬 Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Danielle%20Caled-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielle-caled-8230a325/)](https://www.linkedin.com/in/danielle-caled-8230a325/) 
 [![Gmail Badge](https://img.shields.io/badge/-dcaled@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dcaled@gmail.com)](mailto:dcaled@gmail.com)
 
-<br>
+### 🧰 Tech Stack
 
 <p align="center">
-Technologies I already develop ⌨️
-<br>
-<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" alt="pytorch" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="70" height="70"/>
-
-<br>
-<br>
-Technologies that are on my learning radar 🔎
-<br>  
-<br>  
-<img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="spark" width="75" />
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" alt="PyTorch" width="70" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/PySpark-logo.svg/768px-PySpark-logo.svg.png" alt="PySpark" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"/>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/>
 </p>
 
+### 📊 GitHub Stats
 
 <p align="center">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=dcaled&show_icons=true&theme=dracula" alt="Caled's stats" height=180 />
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api?username=dcaled&show_icons=true&theme=dracula" alt="Danielle Caled's GitHub Stats" height="180"/>
 </p>
+
 
 <!--
 **dcaled/dcaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,4 +53,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 📅 GitHub Contributions
+
+![Danielle's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dcaled&theme=dracula)
 -->

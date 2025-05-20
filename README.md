@@ -27,7 +27,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" alt="PyTorch" width="70" height="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/PySpark-logo.svg/768px-PySpark-logo.svg.png" alt="PySpark" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"/>
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/>

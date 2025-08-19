@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Danielle</h1>
-<h2 align="center">Data Scientist · Machine Learning Engineer · Software Engineer</h2>
+<h2 align="center">AI Engineer · Data Scientist · Machine Learning Engineer · Software Engineer</h2>
 <h3 align="center">I build intelligent systems—from model development to production-ready applications.</h3>
 
 <br>
@@ -16,7 +16,6 @@
 ### 📬 Connect with Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Danielle%20Caled-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielle-caled-8230a325/)](https://www.linkedin.com/in/danielle-caled-8230a325/) 
-[![Gmail Badge](https://img.shields.io/badge/-dcaled@gmail.com-3000cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dcaled@gmail.com)](mailto:dcaled@gmail.com)
 
 ### 🧰 Tech Stack
 
@@ -27,7 +26,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" alt="PyTorch" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"/>
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/>
 </p>

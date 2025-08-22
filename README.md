@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Danielle</h1>
+<h1 align="center">Hi there <img src="https://media.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="30px">, I'm Danielle</h1>
 <h2 align="center">AI Engineer · Data Scientist · Machine Learning Engineer · Software Engineer</h2>
 <h3 align="center">I build intelligent systems—from model development to production-ready applications.</h3>
 
